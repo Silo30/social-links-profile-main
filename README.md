@@ -1,11 +1,10 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é a minha solução para o desafio ["Social links profile challenge"](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). na plataforma [Frontend Mentor](https://www.frontendmentor.io/home). Os desafios da Frontend Mentor ajudam você a melhorar suas habilidades de código ao construir projetos realistas.
+## Tabela de conteúdo
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão Geral](#visão-geral)
+  - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -18,9 +17,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Visão Geral
 
-### The challenge
+### O Desafio
 
 Users should be able to:
 
@@ -28,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./assets/images/preview.JPG)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
